@@ -50,9 +50,9 @@ def run():
 
     while True:
         result = playGame()
-        total_games = total_games + 1
+        total_games += 1
         if result['win']:
-            total_wins = total_wins + 1
+            total_wins += 1
         print("total games: {0}".format(total_games))
         print("total wins: {0}".format(total_wins))
         if total_games > 0 and total_wins > 0:
