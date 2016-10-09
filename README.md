@@ -7,3 +7,5 @@ After playing a bit I felt like more often that not we were losing. I started th
     > total games: 619,807
     > total wins: 293,502
     > win percentage: 47.4
+
+For fun I changed the number of ice cubes to 7 (59.0%) and then 8 (69.3%).
