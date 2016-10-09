@@ -57,7 +57,7 @@ def run():
         print("total wins: {0}".format(total_wins))
         if total_games > 0 and total_wins > 0:
             win_percentage = float(total_wins) / float(total_games)
-        print("win percentage: {0}".format(round(win_percentage * 100, 1)))
+            print("win percentage: {0}".format(round(win_percentage * 100, 1)))
 
 run()
 
